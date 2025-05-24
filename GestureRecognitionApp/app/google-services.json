@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538628482365",
+    "project_id": "gestureapp-eda78",
+    "storage_bucket": "gestureapp-eda78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538628482365:android:7836c7678c1bcdc89ad154",
+        "android_client_info": {
+          "package_name": "com.kseniia.gestureapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNP9fHhRxhJuFy1sNqOHPs23IZKrv2FO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
